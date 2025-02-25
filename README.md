@@ -51,10 +51,8 @@ As a data scientist at Target, you've been given the exciting opportunity to ana
    - Month over Month count of orders for different payment types 📊
    - Count of orders based on the no. of payment installments 🔢
 ***
-<p style="text-align: right;">
+ <p align="right">
   <img src="https://github.com/user-attachments/assets/3d7e7cff-d4b5-4ed6-9042-a758ff45d915" alt="Image">
-</p>
-
   
 ## Support
 Give a ⭐️ if you like this project!
