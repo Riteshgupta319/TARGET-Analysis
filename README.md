@@ -1,7 +1,7 @@
 # <h1 align="center" > 🛒 TARGET - Retail_Analysis 🛒  </h1>
 
 
-<kbd>![R](https://github.com/KasiMuthuveerappan/Supermarket_Analysis/assets/142071405/3055d385-6710-468b-acb4-2cd7a0221f4b)</kbd>
+<kbd>![R](![287495679-3055d385-6710-468b-acb4-2cd7a0221f4b](https://github.com/user-attachments/assets/4b67bb90-3bf3-4823-818b-465f1f02e03a))</kbd>
 
 
 ***
@@ -10,7 +10,7 @@
 
  🔎This SQL solutions done in `Google BigQuery`
 
- 🔗If you have any questions, reach out to me on [LinkedIn](https://www.linkedin.com/in/kasimuthuveerappan/).
+ 🔗If you have any questions, reach out to me on [LinkedIn](www.linkedin.com/in/ritesh-gupta-53a725113).
 
 🚀 Welcome to the Target Data Analysis project! 🎉
 
@@ -52,7 +52,7 @@ As a data scientist at Target, you've been given the exciting opportunity to ana
    - Count of orders based on the no. of payment installments 🔢
 ***
  <p align="right">
-  <img src="https://github.com/KasiMuthuveerappan/Supermarket_Analysis/assets/142071405/5512b0de-60fe-4b17-9fd0-22d35c035c52" alt="Image">
+  <img src="![287495646-5512b0de-60fe-4b17-9fd0-22d35c035c52](https://github.com/user-attachments/assets/3d7e7cff-d4b5-4ed6-9042-a758ff45d915)" alt="Image">
   
 ## Support
 Give a ⭐️ if you like this project!
