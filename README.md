@@ -52,7 +52,7 @@ As a data scientist at Target, you've been given the exciting opportunity to ana
    - Count of orders based on the no. of payment installments 🔢
 ***
  <p align="right">
-  <img src="![287495646-5512b0de-60fe-4b17-9fd0-22d35c035c52](https://github.com/user-attachments/assets/3d7e7cff-d4b5-4ed6-9042-a758ff45d915)" alt="Image">
+  ![Image](https://github.com/user-attachments/assets/3d7e7cff-d4b5-4ed6-9042-a758ff45d915)
   
 ## Support
 Give a ⭐️ if you like this project!
