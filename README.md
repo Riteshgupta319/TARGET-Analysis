@@ -1,5 +1,5 @@
-# TARGET-Analysis
-🛒 TARGET - Retail_Analysis 🛒
+# 🛒 TARGET - Retail_Analysis 🛒
+
 ![287495679-3055d385-6710-468b-acb4-2cd7a0221f4b](https://github.com/user-attachments/assets/f2cfb336-92ce-4c7c-a2b8-20b5462f441c)
 
 
