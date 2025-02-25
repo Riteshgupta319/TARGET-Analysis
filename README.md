@@ -1,7 +1,7 @@
 # <h1 align="center" > 🛒 TARGET - Retail_Analysis 🛒  </h1>
 
 
-<kbd>![R](![287495679-3055d385-6710-468b-acb4-2cd7a0221f4b](https://github.com/user-attachments/assets/4b67bb90-3bf3-4823-818b-465f1f02e03a))</kbd>
+<kbd><img src="https://github.com/user-attachments/assets/4b67bb90-3bf3-4823-818b-465f1f02e03a" alt="R"></kbd>
 
 
 ***
